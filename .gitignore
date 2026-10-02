@@ -1,0 +1,5 @@
+# Large generated test data are kept locally.
+/arithmetic_sequence/tests/test_data.c
+/arithmetic_sequence/tests/test_data.txt
+/discrete_fractal/tests/big.in
+/discrete_fractal/tests/big.out
